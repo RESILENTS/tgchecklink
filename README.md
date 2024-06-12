@@ -2,7 +2,11 @@
 
 Чекер telegram ссылок.
 
-Telegram канал: @shadowbiznes
+# Телеграм канал:
+https://t.me/shadowbizz
+
+# Наш чат:
+https://t.me/shadowbiz_chat
 
 Установка perl и git:
 
